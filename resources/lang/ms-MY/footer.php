@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Versi',
     'powered'               => 'Dikuasakan Oleh Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Perisian Perakaunan Percuma',
 
 ];

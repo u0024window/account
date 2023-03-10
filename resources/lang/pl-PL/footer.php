@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Wersja',
     'powered'               => 'Wspierane przez Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Darmowe oprogramowanie księgowe',
 
 ];

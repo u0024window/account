@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Versiya',
     'powered'               => 'Akaunting tərəfindən',
-    'link'                  => 'https://akaunting.com/tr',
+    'link'                  => 'https://t.shopfgo.com/tr',
     'software'              => 'Pulsuz Ön Muhasibat Proqramı',
 
 ];

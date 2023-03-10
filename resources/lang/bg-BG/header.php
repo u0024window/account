@@ -23,8 +23,8 @@ return [
         ],
     ],
 
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://t.shopfgo.com/docs',
+    'support_link'          => 'https://t.shopfgo.com/support',
 
     'favorite' => [
         'added_favorite'    => 'Добавено в любими',

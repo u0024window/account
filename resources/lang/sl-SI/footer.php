@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Verzija',
     'powered'               => 'Poganja Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Brezplačni program za računovodstvo',
     'powered_by'            => 'Stran poganja',
     'tag_line'              => 'Pošiljajte račune, spremljajte stroške in avtomatizirajte računovodstvo s programom Akaunting. :get_started_url',

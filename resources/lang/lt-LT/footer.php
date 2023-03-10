@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Versija',
     'powered'               => 'Sukurta Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Laisva apskaitos programa',
 
 ];

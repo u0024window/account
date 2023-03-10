@@ -1,4 +1,4 @@
-Please, submit only real issues. Use the forum for support, feature requests, proposals, new versions, help etc. https://akaunting.com/forum
+Please, submit only real issues. Use the forum for support, feature requests, proposals, new versions, help etc. https://t.shopfgo.com/forum
 
 ### Steps to reproduce the issue
 

@@ -3,8 +3,8 @@
 return [
 
     'version'               => 'Verzió',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'powered'               => 'EJB',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Ingyenes könyvelő program',
 
 ];

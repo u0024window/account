@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Feature request
-    url: https://akaunting.com/forum
+    url: https://t.shopfgo.com/forum
     about: 'For ideas or feature requests, start a new discussion'
   - name: Support, help, and other
-    url: https://akaunting.com/support
+    url: https://t.shopfgo.com/support
     about: 'This repository is only for reporting bugs'
   - name: Documentation
     url: https://github.com/akaunting/docs

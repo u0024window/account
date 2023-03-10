@@ -4,7 +4,7 @@ return [
 
     'version'               => 'גירסה',
     'powered'               => 'מופעל על ידי Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'תוכנת הנהלת חשבונות חינם',
 
 ];

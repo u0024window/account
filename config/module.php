@@ -155,7 +155,7 @@ return [
         'vendor' => 'akaunting',
         'author' => [
             'name' => 'Akaunting',
-            'email' => 'info@akaunting.com',
+            'email' => 'info@t.shopfgo.com',
         ],
     ],
 

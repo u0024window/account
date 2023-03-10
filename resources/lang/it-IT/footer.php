@@ -3,8 +3,8 @@
 return [
 
     'version'               => 'Versione',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Free Accounting Software',
+    'powered'               => 'EJB',
+    'link'                  => 'https://t.shopfgo.com',
+    'software'              => 'Accounting Software',
 
 ];

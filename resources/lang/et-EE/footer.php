@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Versioon',
     'powered'               => 'Kasutatud tarkvara: Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Tasuta raamatupidamistarkvara',
 
 ];

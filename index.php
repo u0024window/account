@@ -4,7 +4,7 @@
  * @package     Akaunting
  * @copyright   2017-2022 Akaunting. All rights reserved.
  * @license     GNU GPL version 3; see LICENSE.txt
- * @link        https://akaunting.com
+ * @link        https://t.shopfgo.com
  */
 
 define('LARAVEL_START', microtime(true));

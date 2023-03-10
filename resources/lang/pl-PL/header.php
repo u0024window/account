@@ -10,7 +10,7 @@ return [
         'upcoming_bills'    => '{1} :count nadchodzący rachunek|[2,*] :count nadchodzące rachunki',
         'view_all'          => 'Pokaż wszystko'
     ],
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://t.shopfgo.com/docs',
+    'support_link'          => 'https://t.shopfgo.com/support',
 
 ];

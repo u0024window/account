@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Versjon',
     'powered'               => 'Drevet med Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Gratis regnskapsprogram',
     'powered_by'            => 'Drives av',
     'tag_line'              => 'Send fakturaer, spor utgifter, og automatisér regnskap med Akaunting. :get_started_url',

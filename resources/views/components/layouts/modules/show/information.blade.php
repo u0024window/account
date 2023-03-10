@@ -10,7 +10,7 @@
     <div x-show="price_type == 'monthly'" class="text-center text-sm mt-3">
         <span style="font-size: 12px;">
             <span class="text-red">*</span> 
-            {!! trans('modules.information_monthly', ['url' => 'https://akaunting.com/features/why-akaunting-cloud?utm_source=software&utm_medium=app_show&utm_campaign=' . str_replace('-', '_', $module->slug)]) !!}
+            {!! trans('modules.information_monthly', ['url' => 'https://t.shopfgo.com/features/why-akaunting-cloud?utm_source=software&utm_medium=app_show&utm_campaign=' . str_replace('-', '_', $module->slug)]) !!}
         </span>
     </div>
 @else

@@ -13,9 +13,9 @@ return [
     'search'                => 'ძიება',
     'install'               => 'დაყენება',
     'buy_now'               => 'ახლავე ყიდვა',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">აქ დააჭირეთ</a> რომ მიიღოთ თქვენი API ნიშანი.',
+    'token_link'            => '<a href="https://t.shopfgo.com/tokens" target="_blank">აქ დააჭირეთ</a> რომ მიიღოთ თქვენი API ნიშანი.',
     'no_apps'               => 'ამ კატეგორიაში აპლიკაციები არ არის.',
-    'developer'             => 'თქვენ ხართ შემქმნელი? <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">აქ</a> შეგიძლიათ გაიგოთ, თუ როგორ შექმნათ აპლიკაცია და დაიწყე გაყიდვა დღესვე!',
+    'developer'             => 'თქვენ ხართ შემქმნელი? <a href="https://t.shopfgo.com/blog/akaunting-app-store" target="_blank">აქ</a> შეგიძლიათ გაიგოთ, თუ როგორ შექმნათ აპლიკაცია და დაიწყე გაყიდვა დღესვე!',
 
     'recommended_apps'      => 'რეკომენდირებული აპლიკაცია',
 

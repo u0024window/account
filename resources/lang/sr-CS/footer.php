@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Vеrzija',
     'powered'               => 'Omogućio vam je Akaunting',
-    'link'                  => 'https://Akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Slobodan softver za knjigovodstvo',
 
 ];

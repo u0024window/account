@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Útgáfa',
     'powered'               => 'Keyrt af Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'https://t.shopfgo.com',
     'software'              => 'Opinn bókhalds hugbúnaður',
 
 ];

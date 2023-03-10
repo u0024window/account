@@ -8,11 +8,11 @@
 
 Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Tailwind, RESTful API etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
 
-* [Home](https://akaunting.com) - The house of Akaunting
-* [Forum](https://akaunting.com/forum) - Ask for support
-* [Documentation](https://akaunting.com/hc/docs) - Learn how to use
-* [Developer Portal](https://developer.akaunting.com) - Generate passive income
-* [App Store](https://akaunting.com/apps) - Extend your Akaunting
+* [Home](https://t.shopfgo.com) - The house of Akaunting
+* [Forum](https://t.shopfgo.com/forum) - Ask for support
+* [Documentation](https://t.shopfgo.com/hc/docs) - Learn how to use
+* [Developer Portal](https://developer.t.shopfgo.com) - Generate passive income
+* [App Store](https://t.shopfgo.com/apps) - Extend your Akaunting
 * [Translations](https://crowdin.com/project/akaunting) - Help us translate Akaunting
 
 ## Requirements
@@ -20,7 +20,7 @@ Akaunting is a free, open source and online accounting software designed for sma
 * PHP 8.0 or higher
 * Database (eg: MySQL, PostgreSQL, SQLite)
 * Web Server (eg: Apache, Nginx, IIS)
-* [Other libraries](https://akaunting.com/hc/docs/on-premise/requirements/)
+* [Other libraries](https://t.shopfgo.com/hc/docs/on-premise/requirements/)
 
 ## Framework
 
@@ -45,7 +45,7 @@ Please, be very clear on your commit messages and pull requests, empty pull requ
 
 When contributing code to Akaunting, you must follow the PSR coding standards. The golden rule is: Imitate the existing Akaunting code.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://akaunting.com/conduct). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://t.shopfgo.com/conduct). By participating in this project you agree to abide by its terms.
 
 ## Translation
 
